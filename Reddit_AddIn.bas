@@ -97,6 +97,6 @@ DataObj.PutInClipboard
 Set MatrixArray = Nothing
 Set DataObj = Nothing
 
-MsgBox "Data copied to clipboard!", vbOKOnly, "Written by: /u/norsk"
+MsgBox "Data copied to clipboard!", vbOKOnly, "Written by: /u/norsk & /u/BornOnFeb2nd"
 
 End Sub
